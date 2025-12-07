@@ -31,12 +31,12 @@ The workflow includes data preprocessing, model development, performance evaluat
 
 ## 📦 Files Included
 
-📁 Road-sign-classification-project
-│
-├── Image classification.ipynb # Full notebook with detailed analysis
-├── Image classification.pdf # Exported PDF version of the notebook
-├── checkpoints/ # Saved model weights at different stages
-└── README.md # Project summary (this file)
+📁 Road-sign-classification-project  
+│  
+├── Image classification.ipynb # Full notebook with detailed analysis  
+├── Image classification.pdf # Exported PDF version of the notebook  
+├── checkpoints/ # Saved model weights at different stages  
+└── README.md # Project summary (this file)  
 
 
 ---
